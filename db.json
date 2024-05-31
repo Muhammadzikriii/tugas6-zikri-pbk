@@ -1,0 +1,14 @@
+{
+  "articles": [
+    {
+      "id": "1",
+      "title": "aldog",
+      "content": "hitam"
+    },
+    {
+      "id": "2",
+      "title": "andika",
+      "content": "Kuat"
+    }
+  ]
+}
